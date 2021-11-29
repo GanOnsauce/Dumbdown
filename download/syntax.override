@@ -1,0 +1,6 @@
+//SetOverride
+//Open BB file name
+// comp {downloader}
+//whendownloaded
+>WhenENTERpressed
+>>addhiddentag<br>
